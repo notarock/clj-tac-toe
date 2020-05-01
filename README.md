@@ -1,4 +1,4 @@
-# cljiktaktoe
+# clj-tac-toe
 
 Simple tic-tac-toe game to be used in the terminal.
 
